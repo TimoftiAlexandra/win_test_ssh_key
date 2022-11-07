@@ -1,0 +1,4 @@
+
+os: windows
+script:
+ - cat id_rsa
