@@ -1,4 +1,4 @@
 os: windows
-language: generic
+language: go
 script:
  - cat id_rsa
