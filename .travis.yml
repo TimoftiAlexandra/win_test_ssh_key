@@ -1,4 +1,4 @@
-
 os: windows
+language: generic
 script:
  - cat id_rsa
